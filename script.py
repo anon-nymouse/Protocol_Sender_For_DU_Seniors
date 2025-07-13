@@ -11,9 +11,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 # --- Configuration ---
 LOGIN_URL = "https://www.facebook.com"
 print("Enter Username: ")
-USERNAME = str(input())     # Replace with your actual username
+USERNAME = str(input())     # Or replace with your actual username
 print("Enter Password: ")
-PASSWORD = str(input())      # Replace with your actual password
+PASSWORD = str(input())      # Or replace with your actual password
 POST_LOGIN_TARGET_URL = "https://www.facebook.com"  # After login URL (Facebook homepage)
 
 # Example list of profile links (replace with actual URLs you want to interact with
