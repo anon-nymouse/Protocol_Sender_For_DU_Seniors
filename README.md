@@ -1,6 +1,6 @@
-Only works on windows, mac or linux
-Needs python to work
-Install required libraries 
+-Only works on windows, mac or linux.
+-Needs python to work.
+-Install required libraries 
 
-required libraries:-
+Required libraries:-
 selenium 
